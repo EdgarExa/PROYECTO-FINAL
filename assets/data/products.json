@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "Audífonos inalámbricos",
+      "category": "Tecnología",
+      "price": 549.0,
+      "rating": 4.7,
+      "description": "Audífonos Bluetooth con estuche de carga, controles integrados y diseño cómodo para escuchar música durante el día.",
+      "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1000&q=85",
+      "stock": 18,
+      "featured": true
+    },
+    {
+      "id": "p002",
+      "name": "Mochila urbana",
+      "category": "Accesorios",
+      "price": 699.0,
+      "rating": 4.5,
+      "description": "Mochila ligera con compartimentos para organizar accesorios, libretas y objetos personales.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=85",
+      "stock": 12,
+      "featured": true
+    },
+    {
+      "id": "p003",
+      "name": "Reloj minimalista",
+      "category": "Accesorios",
+      "price": 899.0,
+      "rating": 4.6,
+      "description": "Reloj de estilo minimalista que combina con ropa casual y formal. Diseño limpio y fácil de combinar.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=85",
+      "stock": 7,
+      "featured": true
+    },
+    {
+      "id": "p004",
+      "name": "Taza de cerámica",
+      "category": "Hogar",
+      "price": 159.0,
+      "rating": 4.4,
+      "description": "Taza de cerámica para café, té o bebidas calientes. Una opción sencilla para el hogar o la oficina.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558f06e4d?auto=format&fit=crop&w=1000&q=85",
+      "stock": 30,
+      "featured": false
+    },
+    {
+      "id": "p005",
+      "name": "Lámpara de escritorio",
+      "category": "Hogar",
+      "price": 429.0,
+      "rating": 4.3,
+      "description": "Lámpara compacta para iluminar el espacio de estudio o trabajo, con un estilo contemporáneo.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=85",
+      "stock": 9,
+      "featured": false
+    },
+    {
+      "id": "p006",
+      "name": "Botella reutilizable",
+      "category": "Deportes",
+      "price": 219.0,
+      "rating": 4.6,
+      "description": "Botella reutilizable para mantener agua a mano durante actividades diarias, caminatas o ejercicio.",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1000&q=85",
+      "stock": 24,
+      "featured": false
+    },
+    {
+      "id": "p007",
+      "name": "Tenis deportivos",
+      "category": "Deportes",
+      "price": 1199.0,
+      "rating": 4.8,
+      "description": "Calzado deportivo de apariencia versátil para caminar y complementar un estilo casual.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=85",
+      "stock": 6,
+      "featured": true
+    },
+    {
+      "id": "p008",
+      "name": "Cámara instantánea",
+      "category": "Tecnología",
+      "price": 1899.0,
+      "rating": 4.5,
+      "description": "Cámara compacta inspirada en la fotografía instantánea para capturar momentos y crear recuerdos físicos.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=85",
+      "stock": 4,
+      "featured": false
+    },
+    {
+      "id": "p009",
+      "name": "Bolso casual",
+      "category": "Accesorios",
+      "price": 579.0,
+      "rating": 4.2,
+      "description": "Bolso de diseño casual para llevar objetos personales en salidas o actividades cotidianas.",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=85",
+      "stock": 11,
+      "featured": false
+    },
+    {
+      "id": "p010",
+      "name": "Teclado compacto",
+      "category": "Tecnología",
+      "price": 749.0,
+      "rating": 4.7,
+      "description": "Teclado compacto para organizar el escritorio y facilitar las tareas de escritura y estudio.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=85",
+      "stock": 14,
+      "featured": false
+    }
+  ]
+}
